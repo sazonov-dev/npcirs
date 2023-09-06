@@ -1,5 +1,18 @@
 # NPCIRS
 
+<h2>Тестовое задание React</h2>
+
+### Обзор
+* Стек технологий
+
+**Стек технологий**
+<ul>
+    <li>React</li>
+    <li>Express</li>
+    <li>PostgreSQL</li>
+    <li>Sequelize</li>
+</ul>
+
 - Серверная часть:
     - Старт (терминал):
         - cd server
